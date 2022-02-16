@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Este cambio deberia estar bien
+        feature change 1
       </header>
     </div>
   );
