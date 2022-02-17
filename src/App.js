@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Este cambio deberia estar bien
+        cambio en la rama principal
       </header>
     </div>
   );
